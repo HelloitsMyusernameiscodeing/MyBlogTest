@@ -1,0 +1,197 @@
+
+#StudentCouncil{
+    background:cyan;
+    display: inline-block;
+    padding-left: 500px;
+    padding-right:500px;
+
+}
+
+#Drawing{
+    background:yellow ;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+      
+#Projects{
+   background:red ;
+   display: inline-block;
+   padding-left: 500px;
+   padding-right:500px;
+}
+#Videos{
+    background: white;
+ 
+}
+#About{
+ background:greenyellow ;
+ display: inline-block;
+ padding-left: 500px;
+ padding-right: 500px;
+ 
+}
+#Contact{
+ color: #263238;
+}
+body{
+    text-align: left;
+}
+#zero{
+    color: black;
+}
+#one{
+    color:black;
+}
+    
+#two{
+    color: black;
+}
+
+#three{
+    color: black;
+}
+
+#four{
+    color: black;
+}
+#five{
+    color: black;
+}
+
+#six{
+    color: black;
+}
+
+#seven{
+    color: black;
+}
+#eight{
+    color: black;
+}
+
+#Nine{
+    color: black;
+}
+
+#audi{
+    color: black;
+}
+#speech{
+    color: black;
+}
+#prop{
+    color:black;
+}
+#Minato{
+    color: black;
+}
+#Slender{
+    color: black;
+}
+#Bell{
+    color:black;
+}
+#Video{
+    color:black;
+}
+img{
+  
+    width: 50%;
+
+}
+#Contact{
+    color: black;
+}
+
+#K{
+    color: black;
+}
+#L{
+    color: black;
+}
+#m{
+    color: black;
+}
+#Creator{
+    color: black;
+}
+#Krishna{
+    color: black;
+}
+body {
+    overflow-x: hidden;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  /* Toggle Styles */
+  
+  #viewport {
+    padding-left: 250px;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+  }
+  
+  #content {
+    width: 100%;
+    position: relative;
+    margin-right: 0;
+  }
+  
+  /* Sidebar Styles */
+  
+  #sidebar {
+    z-index: 1000;
+    position: fixed;
+    left: 250px;
+    width: 250px;
+    height: 100%;
+    margin-left: -250px;
+    overflow-y: auto;
+    background: #37474F;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+  }
+  
+  #sidebar header {
+    background-color: #263238;
+    font-size: 20px;
+    line-height: 52px;
+    text-align: center;
+  }
+  
+  #sidebar header a {
+    color: #fff;
+    display: block;
+    text-decoration: none;
+  }
+  
+  #sidebar header a:hover {
+    color: #fff;
+  }
+  
+  #sidebar .nav{
+    
+  }
+  
+  #sidebar .nav a{
+    background: none;
+    border-bottom: 1px solid #455A64;
+    color: #CFD8DC;
+    font-size: 14px;
+    padding: 16px 24px;
+  }
+  
+  #sidebar .nav a:hover{
+    background: none;
+    color: #ECEFF1;
+  }
+  
+  #sidebar .nav a i{
+    margin-right: 16px;
+  }
